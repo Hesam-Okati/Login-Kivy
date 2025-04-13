@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Kivy logs
+.kivy/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Python cache and egg files
+*.pyc
+*.pyo
+*.pyd
+
+# Kivy platform-specific files (for Android, etc.)
+*.apk
+*.apks
+*.tar.gz
+
+# Other files
+*.log
